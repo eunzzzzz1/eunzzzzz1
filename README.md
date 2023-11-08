@@ -40,6 +40,7 @@ I'm trying to get a bit better every day with consistency and sincerity.
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="20" height="20" /> *My Projects*
 - [펀딩 플랫폼 웹사이트] 🌱Fiona Funding
+- [모임통장 관리 서비스] [크루즈](https://github.com/eunzzzzz1/projectCruise)
 
 <br>
 
