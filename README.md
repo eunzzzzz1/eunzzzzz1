@@ -6,7 +6,7 @@
 
 ### *"Hello, Eunji!"* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 
-안녕하세요! 백엔드 개발자를 꿈꾸는 ***김은지*** 입니다.   
+안녕하세요, 백엔드 개발자를 꿈꾸는 ***김은지*** 입니다.   
 꾸준함과 성실함으로 날마다 발전하고자 노력하고 있습니다.
 
 Hello! I'm ***Kim Eun Ji*** who dreams of becoming a backend developer.   
