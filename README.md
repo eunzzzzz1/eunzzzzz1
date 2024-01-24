@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="100" height="100" />
 
-### *"Hello, Eunji!"* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
+## *"Hello, Eunji!"* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 
 안녕하세요, 백엔드 개발자를 꿈꾸는 ***김은지*** 입니다.   
 꾸준함과 성실함으로 날마다 발전하고자 노력하고 있습니다.
@@ -18,7 +18,7 @@ I'm trying to get a bit better every day with consistency and sincerity.
 
 
   
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> *I can print "Hello, World!" with...* 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> *I can print "Hello, World!" with...* 
 
 - `Java`
 - `HTML 4.1` `HTML 5` `CSS` `JavaScript` `AJAX` `JQuery`
@@ -30,17 +30,15 @@ I'm trying to get a bit better every day with consistency and sincerity.
 
 <br>
   
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /> *And I'm interested in...*
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /> *And I'm interested in...*
 
 - `Python`
 - `AWS`
 
 <br>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="20" height="20" /> *My Projects*
-- 통합 모임통장 관리 서비스, 크루즈
-  - [GitHub](https://github.com/eunzzzzz1/projectCruise)
-  - [Notion](https://eunzzzzz1.notion.site/eunzzzzz1/b2f249d1f86d43c9a35a101de2e02da3) 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="20" height="20" /> *My Projects*
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" alt="Ship" width="25" height="25" /> *통합 모임통장 관리 서비스, 크루즈* ( [GitHub](https://github.com/eunzzzzz1/projectCruise) / [Notion](https://eunzzzzz1.notion.site/eunzzzzz1/b2f249d1f86d43c9a35a101de2e02da3) )
 
 <br>
 
