@@ -38,10 +38,10 @@ I'm trying to get a bit better every day with consistency and sincerity.
 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="20" height="20" /> *My Projects*
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" alt="Ship" width="25" height="25" /> *통합 모임통장 관리 서비스, 크루즈* ( [GitHub](https://github.com/eunzzzzz1/projectCruise) / [Notion](https://eunzzzzz1.notion.site/eunzzzzz1/b2f249d1f86d43c9a35a101de2e02da3) )
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" alt="Ship" width="15" height="15" /> *통합 모임통장 관리 서비스, 크루즈* ( [GitHub](https://github.com/eunzzzzz1/projectCruise) / [Notion](https://eunzzzzz1.notion.site/eunzzzzz1/b2f249d1f86d43c9a35a101de2e02da3) )
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="20" height="20" /> **My Notion** [🖥️"Hello EJ!"](https://www.notion.so/eunzzzzz1/Hello-EJ-251a4a50f8e94ce482b0e9ab63a6c6d5?pvs=4)   
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="20" height="20" /> **My Portfolio** [🖥️"Hello EJ!"](https://www.notion.so/eunzzzzz1/Hello-EJ-251a4a50f8e94ce482b0e9ab63a6c6d5?pvs=4)   
 📬**Email** eunzzzzz1@gmail.com
 
