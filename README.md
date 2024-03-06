@@ -32,3 +32,6 @@ I'm trying to get a bit better every day with consistency and sincerity.
 📬**Email** eunzzzzz1@gmail.com<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="20" height="20" /> **My Portfolio** [`👋"Hello Eunji!"`](https://eunzzzzz1.notion.site/Hello-Eunji-1b8ac348fe9c44398b7d511d6ed414ae?pvs=4)   
 
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunzzzzz1&count_bg=%23A2D5FF&title_bg=%23FFCBE2&icon=&icon_color=%23E7E7E7&title=hits%F0%9F%92%AB&edge_flat=true)](https://hits.seeyoufarm.com)
