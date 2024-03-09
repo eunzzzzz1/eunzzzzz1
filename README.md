@@ -18,7 +18,7 @@ I'm trying to get a bit better every day with consistency and sincerity.
   
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="20" height="20" /> *I can print "Hello, World!" with...* 
 
-- Back-End : **Java**, **Spring FrameWorks**, **Spring Boots**, **MyBatis**, iBatis, JPA, Struts1, Struts2
+- Back-End : **Java**, **Spring Framework**, **Spring Boots**, **MyBatis**, iBatis, JPA, Struts1, Struts2
 - Front-End : HTML, CSS, JavaScript, JQuery, AJAX, React
 - DataBase : Oracle, H2
 - Tools : Eclipse, VSCode, IntelliJ IDEA, Gradle, Maven, STS
